@@ -12,7 +12,7 @@ app界面：常温新
 ### 材料清单：
 |名称|数量|备注|
 |:---|:---|:---|
-| 紫外LED灯 | 4 | 用于消毒 |
+|紫外LED灯|4|用于消毒|
 |红色LED灯|1|提示口罩使用时限已到|
 |黄色LED灯|1|提示准备消毒或消毒进行中|
 |绿色LED灯|1|提示消毒完成或口罩还能继续使用|
@@ -23,6 +23,9 @@ app界面：常温新
 |电线|若干||
 |纸板|若干|搭建消毒盒主体|
 
+|名称|数量|
+|:---|:---|
+|紫外LED灯|4|
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
