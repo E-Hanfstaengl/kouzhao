@@ -29,7 +29,7 @@
 |电线|若干|
 |纸板|若干|搭建消毒盒主体|
 ### 消毒程序代码
-```markdown
+```
 int purplePin = 2 ;
 int yellowPin = 4 ;
 int greenPin = 5 ;
