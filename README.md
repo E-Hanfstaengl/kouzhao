@@ -138,6 +138,4 @@ Syntax highlighted code block
 
 
 ### 相关信息
-[凿物网]https://zaowu.fun/p/5ee777be9c5fec674b69016f）
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[凿物网]（https://zaowu.fun/p/5ee777be9c5fec674b69016f）
